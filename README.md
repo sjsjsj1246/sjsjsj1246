@@ -1,11 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=useEffect%28%28%29%3D%3E%7B&fontColor=FFFFFF&fontSize=50&fontAlignY=40)
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsj1246&show_icons=true&theme=default&line_height=20&hide_rank=true&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjsjsj1246)](https://github.com/anuraghazra/github-readme-stats)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=useEffect%28%28%29%3D%3E%7B&fontColor=FFFFFF&fontSize=30&fontAlignY=30)
 
 ### 🛠Interest
 
@@ -30,6 +25,10 @@
 
 [![](https://img.shields.io/badge/hisfolio-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://hisfolio.com/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer&text=%7D%29&fontColor=FFFFFF&fontSize=50&fontAlignY=70)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsj1246&show_icons=true&theme=default&line_height=20&hide_rank=true&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjsjsj1246)](https://github.com/anuraghazra/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer&text=%7D%29&fontColor=FFFFFF&fontSize=30&fontAlignY=80)
 
 </div>
