@@ -8,12 +8,11 @@
 ![](https://img.shields.io/badge/React_native-0088CC?style=flat-square&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white)
 <br>
+<br>
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
-<br>
-![](https://img.shields.io/badge/Algorithm-D22128?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 ### ✉Contact
 
