@@ -25,7 +25,7 @@
 
 [![](https://img.shields.io/badge/hisfolio-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://hisfolio.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsj1246&show_icons=true&theme=default&line_height=20&hide_rank=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsj1246&show_icons=true&theme=default&line_height=20&hide_rank=true&count_private=true&hide=contribs)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sjsjsj1246&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer&text=%7D%29&fontColor=FFFFFF&fontSize=30&fontAlignY=80)
