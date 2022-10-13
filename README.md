@@ -16,8 +16,6 @@
 ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-<br>
-
 #### 🎊 Projects
 <ul>
   <li>
@@ -34,14 +32,10 @@
   </li>
 </ul>
 
-<br>
-
 #### 🔗 Links
 [![](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lnseo.notion.site/568f2c029c0b4465838372bbad52dceb)](https://hislogs.com/)
 [![](https://img.shields.io/badge/블로그-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://hislogs.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:sjsjsj1246@gmail.com)](mailto:sjsjsj1246@gmail.com)
-
-<br>
 
 #### 😃 Recent
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjsjsj1246)](https://solved.ac/sjsjsj1246)
