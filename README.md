@@ -19,16 +19,16 @@
 #### 🎊 Projects
 <ul>
   <li>
-    <a href="https://github.com/MoyeoRun/MoyeoRun_Front"><b>모여런</b></a> - 다수가 함께 뛸 수 있는 실시간 러닝 서비스 (2021 Paas-ta 기반 서비스 개발 및 아이디어 공모전)
+    <a href="https://github.com/MoyeoRun/MoyeoRun_Front"><b>모여런</b></a> - 다수가 함께 뛸 수 있는 실시간 러닝 서비스 (2021 Paas-ta 기반 서비스 개발 및 아이디어 공모전, 은상)
   </li>
   <li>
-    <a href="https://github.com/Jandy-SeoulTech/Jandy_Web_Front"><b>Upgle</b></a> - 오픈 소스 재능 공유 플랫폼 (2021 OSS 개발자 대회)
+    <a href="https://github.com/Jandy-SeoulTech/Jandy_Web_Front"><b>Upgle</b></a> - 오픈 소스 재능 공유 플랫폼 (2021 OSS 개발자 대회, 장려상)
   </li>
   <li>
-    <a href="https://github.com/junction-hippy/Gamp_Front"><b>Gamp</b></a> - 게임 시작 후 팀 멤버들과 자동으로 매칭되는 보이스 채팅 서비스 (2021 Junction X Seoul Hackathon)
+    <a href="https://github.com/junction-hippy/Gamp_Front"><b>Gamp</b></a> - 게임 시작 후 팀 멤버들과 자동으로 매칭되는 보이스 채팅 서비스 (2021 Junction X Seoul Hackathon, 1st)
   </li>
   <li>
-    <a href="https://github.com/woori-hippy/hippy_front"><b>Hippy</b></a> - NFT를 활용한 소셜 커머스 플랫폼 (2021 우리은행 블루아워 온택트 해커톤)
+    <a href="https://github.com/woori-hippy/hippy_front"><b>Hippy</b></a> - NFT를 활용한 소셜 커머스 플랫폼 (2021 우리은행 블루아워 온택트 해커톤, 장려상)
   </li>
 </ul>
 
