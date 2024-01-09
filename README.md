@@ -1,25 +1,7 @@
-#### 💡 Interest
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-![](https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=0088CC)
-![](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJs&logoColor=white)
-
-![](https://img.shields.io/badge/React_native-0088CC?style=flat-square&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-
-#### 🎊 Projects
+#### 🗂️ Projects
 <ul>
   <li>
-    <a href="https://github.com/Hipspot/hipspot-web"><b>힙스팟</b></a> - 내가 가고싶은 카페를 찾아주는 서비스
+    <a href="https://github.com/gom-3/dutying-web"><b>듀팅</b></a> - 간호사 근무표 관리 서비스 (SW 마에스트로 14기 인증)
   </li>
   <li>
     <a href="https://github.com/MoyeoRun/MoyeoRun_Front"><b>EC-Community</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 홈페이지
@@ -39,8 +21,7 @@
 </ul>
 
 #### 🔗 Links
-[![](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://lnseo.notion.site/568f2c029c0b4465838372bbad52dceb)](https://lnseo.notion.site/568f2c029c0b4465838372bbad52dceb/)
-[![](https://img.shields.io/badge/블로그-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://hislogs.com/)
+[![](https://img.shields.io/badge/블로그-8CA1AF?style=flat-square&logo=read%20the%20docs&logoColor=white)](https://teddy0.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:sjsjsj1246@gmail.com)](mailto:sjsjsj1246@gmail.com)
 
 #### 😃 Recent
