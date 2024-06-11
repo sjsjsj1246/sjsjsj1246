@@ -1,3 +1,5 @@
+![Metrics](./github-metrics.svg)
+
 <ul>
   <li>
     <a href="https://github.com/gom-3/dutying-web"><b>듀팅</b></a> - 간호사 근무표 관리 서비스 (SW 마에스트로 14기 인증)
