@@ -17,3 +17,17 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: sjsjsj1246
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Seoul
+          config_twemoji: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_topics: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_types: commit, pull_request, issue
