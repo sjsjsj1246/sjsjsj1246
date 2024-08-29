@@ -1,6 +1,14 @@
-![Metrics](./github-metrics.svg)
+## Works
+
+- [naver/fe-news](https://github.com/naver/fe-news), 운영진(2024.08 ~)
+- **Naver** SmartEditor, FE 개발(2023.12 ~)
+
+## Projects
 
 <ul>
+  <li>
+    <a href="https://github.com/sjsjsj1246/react-tutorial-overlay"><b>react-tutorial-overlay</b></a> - 쉽게 오버레이 튜토리얼을 띄워주는 오픈소스 라이브러리
+  </li>
   <li>
     <a href="https://github.com/gom-3/dutying-web"><b>듀팅</b></a> - 간호사 근무표 관리 서비스 (SW 마에스트로 14기 인증)
   </li>
@@ -21,8 +29,4 @@
   </li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjsj1246&show_icons=true&theme=default&line_height=20&count_private=true)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjsjsj1246)](https://solved.ac/sjsjsj1246)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjsjsj1246&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sjsjsj1246)](https://solved.ac/sjsjsj1246) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjsjsj1246&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
