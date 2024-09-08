@@ -13,7 +13,7 @@
     <a href="https://github.com/gom-3/dutying-web"><b>듀팅</b></a> - 간호사 근무표 관리 서비스 (SW 마에스트로 14기 인증)
   </li>
   <li>
-    <a href="https://github.com/MoyeoRun/MoyeoRun_Front"><b>EC-Community</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 홈페이지
+    <a href="https://github.com/EndlessCreation/EC_Community_Front"><b>EC-Community</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 홈페이지
   </li>
   <li>
     <a href="https://github.com/MoyeoRun/MoyeoRun_Front"><b>모여런</b></a> - 다수가 함께 뛸 수 있는 실시간 러닝 서비스 (2021 Paas-ta 기반 서비스 개발 및 아이디어 공모전, 은상)
