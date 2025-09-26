@@ -1,7 +1,7 @@
 ## Works
 
 - [naver/fe-news](https://github.com/naver/fe-news), 운영진(2024.08 ~)
-- **Naver** [SmartEditor](https://smarteditor.naver.com/desktop/), FE 개발(2023.12 ~)
+- **Naver** [SmartEditor](https://smarteditor.naver.com/desktop/), FE, BE 개발(2023.12 ~)
 
 ## Projects
 
